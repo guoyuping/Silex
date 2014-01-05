@@ -41,7 +41,7 @@
         "symfony/twig-bridge": ">=2.3,<2.5-dev",
         "symfony/validator": ">=2.3,<2.5-dev",
         "twig/twig": ">=1.8.0,<2.0-dev",
-        "doctrine/dbal": ">=2.2.0,<2.4.0-dev",
+        "doctrine/dbal": ">=2.2.0,<2.5.0-dev",
         "swiftmailer/swiftmailer": "5.*",
         "monolog/monolog": "~1.4,>=1.4.1",
         "phpunit/phpunit": "~3.7"
